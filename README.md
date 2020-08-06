@@ -18,6 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+- [ ] unselected
+
 1. Numbered
 2. List
 
